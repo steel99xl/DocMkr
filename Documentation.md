@@ -1,7 +1,7 @@
 !/bin/python3
 # DocMkr.py
 ## Description
- This script is sesinged to allow the creation of documentaton by using Markdown style writing in your comments
+ This script is designed to allow the creation of documentaton by using Markdown style writing in your comments
  by steel99xl
 ## Imports
 ```python
