@@ -1,14 +1,14 @@
 #!/bin/python3
 ## DocMkr.py
 ### Description
-# This script is sesinged to allow the creation of documentaton by using Markdown style writing in your comments
+# This script is designed to allow the creation of documentaton by using Markdown style writing in your comments
 # by steel99xl
 ### Imports
 import sys, getopt
 
 
 ### Main Function
-# This handles  commandline argument parsing and the calling of other functions
+# This handles  command line argument parsing and the calling of other functions
 def main(argv):
     language = ''
     inputfile = ''
